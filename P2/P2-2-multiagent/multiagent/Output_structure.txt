@@ -1,0 +1,27 @@
+Successor Game State %%%%%%%%%%%%%%%%%%%%
+%o   %........%....%
+%.%% %.%%%%%%.%.%%.%
+%.%G          ...%.%
+%.% %% %%  %% %%.%.%
+%  ^   %    %    ..%
+% % %%.%%%%%%.%% %.%
+% %              %.%
+% %% % %%%%%%.% %%.%
+%    %    ....%   o%
+%%%%%%%%%%%%%%%%%%%%
+Score: 520
+
+New Position (3, 5)
+New Food FFFFFFFFFFFFFFFFFFFF
+FFFFFFTTTTTTTTFTTTTF
+FTFFFFTFFFFFFTFTFFTF
+FTFFFFFFFFFFFFTTTFTF
+FTFFFFFFFFFFFFFFTFTF
+FFFFFFFFFFFFFFFFFTTF
+FFFFFFTFFFFFFTFFFFTF
+FFFFFFFFFFFFFFFFFFTF
+FFFFFFFFFFFFFTFFFFTF
+FFFFFFFFFFTTTTFFFFFF
+FFFFFFFFFFFFFFFFFFFF
+New Ghost States [<game.AgentState object at 0x00000000037FEB08>]
+New Scared Times [0]

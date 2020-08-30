@@ -1,0 +1,27 @@
+Welcome to  your first Artificial Intelligence project.
+
+In this project, you will build a deep neural network from end to end and you will use it to classify images.
+
+There are 5 Python notebooks to complete.
+Each of these notebooks will bring you one step closer to the final result:
+1- numpy and tensors
+2- logistic regression from a neural network point of view
+3- classification of planar dataset
+4- deep neural network from beginning to ended
+5- image classification
+
+Before starting, you need a working Anaconda Python installation on your computer.
+You will access the notebooks by running the command:
+
+c:\Home\AI\projects\p1-ml>jupyter notebook
+
+in the directory where you have unpacked the files.
+This command should open the notebooks list into your web browser.
+
+The 4th notebook is the longest one to fill in.
+You don't need its results to do the 5th one, so you can skip it if it takes too long.
+
+Let's get started.
+
+Credits: Pr Andrew Ng and his team for these notebooks.
+
